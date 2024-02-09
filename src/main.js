@@ -8,7 +8,7 @@ const gallery = document.querySelector('.gallery');
 const loader = document.querySelector('.loader');
 loader.style.display = 'none';
 const searchParams = {
-  key: '42093583-bfe36716eb3593f6644c471e3',
+  key: '42296556-10e657c6d09903018112d9d9d',
   q: '',
   image_type: 'photo',
   orientation: 'horizontal',
